@@ -1,0 +1,7 @@
+v1.0
+time 2014-7-15
+function:
+	simple compiler
+	integer
+	string
+	dict
